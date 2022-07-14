@@ -22,8 +22,10 @@ I have implement the contract on remix id on local test network provided by ide.
 
 Admin.sol file contains all functions related to admin capability.  
 
-#Steps 
+##Steps 
 ******
 
-a)deploy admin.sol frist you have to add at least 2 owner in this file 
-b) then deploy main.sol for further transactions
+1 )deploy admin.sol frist you have to add at least 2 owner in this file. 
+
+
+2) then deploy main.sol for further transactions.
